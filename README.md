@@ -50,7 +50,7 @@ Hacklock is a bash based script which is officially termux from this tool in jus
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* `git clone https://github.com/noob-hackers/hacklock`
+* `git clone https://github.com/Monsterlallu/hacklock`
 * `cd $HOME`
 * `ls`
 * `cd hacklock`
